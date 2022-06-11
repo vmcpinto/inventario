@@ -1,4 +1,6 @@
 {
   "scripts": [],
-  "styles": []
+  "styles": [
+    "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap.css"
+  ]
 }

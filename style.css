@@ -1,3 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 ul {
     list-style: none;
+}
+
+.yebz {
+  text-align: justify;
+}
+
+header {
+  background-color: lightskyblue;
+  margin:0px;
+}
+
 }
